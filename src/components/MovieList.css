@@ -1,0 +1,13 @@
+
+
+.img-thumbnail {
+    transition: transform 0.3s ease;
+  }
+  
+  .img-thumbnail:hover {
+    transform: scale(1.1); /* Adjust the scale factor as needed */
+  }
+  /* Add this class to your styles */
+.larger-text-input {
+  font-size: 16px;  /* Adjust the font size as needed */
+}

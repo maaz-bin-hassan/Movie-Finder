@@ -1,0 +1,41 @@
+/* app.css */
+
+body {
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(135deg, #ffffff, #2980b9);
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Navbar Styles */
+.Navbar {
+  background: linear-gradient(135deg, #3498db, #2980b9);
+  color: #000000;
+  padding: 10px;
+  text-align: center;
+}
+
+/* MovieList Styles */
+.MovieList {
+  margin-top: 20px;
+}
+
+/* MovieDetail Styles */
+.MovieDetail {
+  padding: 20px;
+}
+
+/* Footer Styles */
+.Footer {
+  background: linear-gradient(135deg, #3498db, #2980b9);
+  color: #000000;
+  padding: 10px;
+  text-align: center;
+}
